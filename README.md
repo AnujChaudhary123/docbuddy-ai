@@ -51,14 +51,12 @@ streamlit run app.py
 
 # Recommendations Page 🔮
 
-![image](https://github.com/abhiiiman/DocBuddy.ai/assets/111262410/03a089f3-36da-477f-8928-40810e2ac7f2)
 
 - Precautions ⚠️
 - Recommendations ✨
 - Medications 💊
 - Diets 🍉
 
-![image](https://github.com/abhiiiman/DocBuddy.ai/assets/111262410/9ad3ba15-16f4-4278-afaf-78e864b7153b)
 
 # Generate Report Page 📑
 
@@ -69,21 +67,8 @@ streamlit run app.py
 
 ![image](https://github.com/user-attachments/assets/d6bf4e96-bbae-45ce-a07e-38ca4ff2169a)
 
-# Multilingual Chat Suppport 🧠
-* Say `Hello!` in your language to get started⚡
-
-![image](https://github.com/user-attachments/assets/b91668d9-dd59-47c7-842e-6824edfab47f)
 
 
-
-# Accounts Page 👥⚙️
-- Login Page ✔️
-
-![image](https://github.com/abhiiiman/DocBuddy.ai/assets/111262410/176425ed-6674-4f08-9df0-283aabe665d8)
-
-- Sign Up Page ➕
-
-![image](https://github.com/abhiiiman/DocBuddy.ai/assets/111262410/43d71050-08e8-4aad-b828-dba503a13e39)
 
 ### Usage ✔️
 - Open the application in your web browser.
@@ -105,8 +90,5 @@ Contribute to improve DocBuddy.ai. Please follow these steps to contribute:
 
 _This project is under continuous development. We appreciate your feedback and contributions to make `DocBuddy.ai` better!_
 
-### Demo 📹⏺️
-
-https://github.com/user-attachments/assets/6059c0e0-0aca-4db0-8e40-be3face59d97
 
 
