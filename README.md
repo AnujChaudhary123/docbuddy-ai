@@ -60,7 +60,6 @@ streamlit run app.py
 
 # Generate Report Page 📑
 
-![image](https://github.com/abhiiiman/DocBuddy.ai/assets/111262410/421543e4-e262-4061-970e-fd008f640110)
 
 # Chat with DocBuddy.ai 🗨️
 * Ultra Fast Chat Response ⚡
