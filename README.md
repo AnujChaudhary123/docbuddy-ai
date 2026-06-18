@@ -29,7 +29,7 @@ This tool aims to assist users in managing their health effectively.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/abhiiiman/DocBuddy.ai.git
+git clone https://github.com/AnujChaudhary123/DocBuddy.ai.git
 ```
 2. Change to the project directory:
 ```bash
